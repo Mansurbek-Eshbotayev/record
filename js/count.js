@@ -1,1 +1,0 @@
-var oneX = ["boy","boyy","boy"]
